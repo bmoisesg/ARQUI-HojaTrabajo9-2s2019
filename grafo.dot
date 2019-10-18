@@ -1,0 +1,11 @@
+DiGraph g{
+
+NE->SE[label="ls "]
+NE->NO[label="der"]
+NO->NE[label="izq"]
+NO->SO[label="ls"]
+SO->SE[label="izq"]
+SO->NO[label="li"]
+SE->SO[label="der"]
+SE->NE[label="li"]
+}
